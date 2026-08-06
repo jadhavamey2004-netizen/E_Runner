@@ -4,14 +4,14 @@ This project was developed as a comprehensive technical exploration into **Unrea
 
 ---
 
-## 🛠️ Technical Stack
+##  Technical Stack
 * **Engine:** Unreal Engine 5
 * **Scripting:** Blueprints Visual Scripting
 * **Mentorship:** Mr. Sagar Wankhede
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 ### 1. Procedural Level Generation
 The environment is built dynamically during runtime to ensure an infinite gameplay loop.
@@ -30,14 +30,14 @@ The environment is built dynamically during runtime to ensure an infinite gamepl
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 * **Game Mode:** Manages the high-level game state and score persistence.
 * **Floor Tile Blueprint:** Contains the logic for its own spawning markers and hazard population.
 * **Character Blueprint:** Houses the movement component logic and input handling.
 
 ---
 
-## 📈 Learning Outcomes
+##  Learning Outcomes
 Through this project at Stacklab.in, I mastered the **Game Development Life Cycle (GDLC)** within Unreal Engine, specifically focusing on:
 * Project setup and asset migration.
 * Advanced Blueprint communication.
@@ -45,5 +45,5 @@ Through this project at Stacklab.in, I mastered the **Game Development Life Cycl
 
 ---
 
-## 🤝 Acknowledgments
+##  Acknowledgments
 Special thanks to **Mr. Sagar Wankhede** for his mentorship and the team at **Stacklab.in** for providing the professional environment to develop this project.
